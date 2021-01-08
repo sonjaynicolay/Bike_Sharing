@@ -12,7 +12,7 @@ The Citibike Analysis has been conducted to breakdown the likely hood of Des Moi
 
 
 
-![](images/nyc_citibike_dashboard)
+![NYC Citibike Dashboard](images/nyc_citibike_dashboard.jpg)
 
 #### Average Trip Duration
 
@@ -29,29 +29,29 @@ The gender breakdown helps identify the target audience and who should be market
 
 
 #### Checkout Times for Users
-![](images/Checkout_times_for_users)
+![Checkout Times for Users](images/Checkout_times_for_users.jpg)
 
 Bikes are checked out for a generous amount of time according to the data. 5 hours is the peak amount of times but also the length of time but also the length of time a large amount of bikes are checked out. Letting us know that bike aren't just being used for work and school commutes in the city they are being used for other activities.
 
 #### Checkout Times by Gender
-![](images/checkout_times_gender)
+![Checkout Times by Gender](images/checkout_times_gender.jpg)
 
 Males checkout bikes for more frequently than everyone else. However the duration in which the bikes are checked out are consistent. The most popular time being about 5 hours. At the 5 hour duration Males check out on average a little over 2,000 bikes and Females right around 700. 
 
 #### Trips by Weekday per Hour
-![](images/trips_by_weekday_per_hour)
+![Trips by Weekday per Hour](images/trips_by_weekday_per_hour.jpg)
 
 Mondays-Thursdays, 10:00AM-3:00PM, are slower than other days. Friday-Sunday is consistently busy and weekday morning and evening rush hour. Wednesdays in general looks to be the slowest day. Making it a good day for significant repairs in high bike activity areas.
 
 
 #### Trips by Gender by Weekday
-![](images/trips_by_gender_by_weekday)
+![Trips by Gender by Weekday](images/trips_by_gender_by_weekday.jpg)
 
 This visualization shows us the relation between male and female riders and those who either chose not to answer or may be gender fluid, and the amount of trips they take using Citibike per weekday. This data shows us that males and those who identify as male overall ride more frequently. It also show that most of those riders aren't just customers they are subscribers of the Citibike service.
 
 
 #### Trips by Gender by Weekday per Hour (Combination of previous two)
-![](images/trips_by_gender_weekday_per_hour)
+![Trips by Gender by Weekday per Hour](images/trips_by_gender_weekday_per_hour.jpg)
 
 This visualization is a combination of the two above. It reiterates that Wednesdays are slow and that males are dominant riders. It also shows us a bit more clearly the dead times each day from midnight to 5:00AM as well. 
 
