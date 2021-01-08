@@ -1,4 +1,4 @@
-# Citibike Analysis 
+![](header_image.jpg)
 ## Would Des Moines, Iowa be a profitable bikesharing market? 
 
 
