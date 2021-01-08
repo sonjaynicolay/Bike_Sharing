@@ -63,3 +63,9 @@ This visualization is a combination of the two above. It reiterates that Wednesd
 This summary was primarily based on New York data. With this data it shows that a bikesharing business may be pretty profitable. However, in-depth research needs to be completed on the Des Moines market and the city is not nearly as large as the borough of Manhattan. College towns and downtown areas could make it a thriving seasonal business. 
 
 Before researching Des Moines, I would suggest finding better examples to show the risk for Bike Repairs and the level of bike utilization. Those graphs were not the best if you are trying to get down to a financial visual. When presenting in a boardroom, all they really want to know is about the money (Production Cost, ROI, Labor, etc.). These fall short of producing those a visual of those particulars indirectly or directly.
+
+
+
+[link to dashboard](https://public.tableau.com/profile/sonja.williams3870#!/vizhome/CitiBikeAnalysisChallenge/CitiBikeAnalysisChallengeStory?publish=yes)
+
+[link to dashboard] (https://public.tableau.com/profile/sonja.williams3870#!/vizhome/Citybike_Module/NYCStory)
