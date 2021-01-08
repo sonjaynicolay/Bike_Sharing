@@ -68,4 +68,4 @@ Before researching Des Moines, I would suggest finding better examples to show t
 
 [link to dashboard](https://public.tableau.com/profile/sonja.williams3870#!/vizhome/CitiBikeAnalysisChallenge/CitiBikeAnalysisChallengeStory?publish=yes)
 
-[link to dashboard Part 2] (https://public.tableau.com/profile/sonja.williams3870#!/vizhome/Citybike_Module/NYCStory)
+[link to dashboard Part 2] "(https://public.tableau.com/profile/sonja.williams3870#!/vizhome/Citybike_Module/NYCStory)"
